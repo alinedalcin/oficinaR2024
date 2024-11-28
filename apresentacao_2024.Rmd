@@ -1,0 +1,56 @@
+---
+title: "Oficina de introdução ao R"
+subtitle: "28/11/2024"
+header-includes:
+- \usepackage{booktabs}
+- \usepackage{longtable}
+- \usepackage{xcolor}
+- \usepackage{array}
+- \usepackage{multirow}
+- \usepackage{wrapfig}
+- \usepackage{float}
+- \usepackage{colortbl}
+- \usepackage{pdflscape}
+- \usepackage{tabu}
+- \usepackage{threeparttable}
+- \usepackage{threeparttablex}
+- \usepackage[normalem]{ulem}
+- \usepackage{makecell}
+- \hypersetup{colorlinks, linkcolor=blue}
+fontsize: 12pt
+lang: pt-BR
+output: 
+  beamer_presentation:
+    colortheme: "wolverine"
+    fonttheme: "professionalfonts"
+---
+
+## O que é o R?
+
+- O R é um programa para manipulação e análise de dados, bem como uma linguagem de programação.
+- Algumas características:
+  - É um programa gratuito;
+  - Permite que se salve um roteiro/script das nossas ações;
+  - Permite a manipulação e análise de grandes bases de dados;
+  - Lê diversos tipos de formatos de arquivo;
+  - É um programa aberto.
+
+## O que é possível fazer com o R?
+
+- Organizar informações
+- Analisar dados (análises econométricas, mineração, modelagem, IA, etc.)
+- Produzir gráficos e visualizações
+- Etc.
+
+## O que é possível fazer com o R?
+
+- <https://rpubs.com/akd/eleicoesPOA2020>
+- <https://akd249.shinyapps.io/observatoriogrenal/>
+- <http://visualiza.dee.planejamento.rs.gov.br/>
+- <https://imobindex.procempa.com.br/>
+
+
+## Como baixar?
+
+-   Para baixar o R, basta acessar o seguinte link: <https://www.r-project.org/> (clicar em download e escolher uma rede de distribuição).
+-   Para baixar o RStudio, basta acessar o seguinte link: <https://www.rstudio.com/>.
